@@ -1,0 +1,27 @@
+#root {
+  min-height: 100vh;
+  text-align: center;
+  color: white;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: garamond;
+  src: url('./assets/EBGaramond-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: garamond-italic;
+  src: url('./assets/EBGaramond-Italic-VariableFont_wght.ttf');
+}
+
+.font1 {
+  font-family: garamond;
+}
+
+.font2 {
+  font-family: garamond-italic;
+}
